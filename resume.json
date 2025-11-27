@@ -1,19 +1,19 @@
 {
   "meta": {
-    "title": "Adnan Naeem - Senior Mobile Applications Engineer",
-    "description": "Resume of Adnan Naeem - Senior Android Engineer with 7+ years of experience in Kotlin, Java, Jetpack Compose, React Native and scalable mobile app development.",
-    "keywords": "Adnan Naeem, Android Engineer, Senior Mobile Developer, Kotlin, React Native, Lahore, Resume, Portfolio",
+    "title": "Noman Farooq - Senior Mobile Applications Engineer (Android)",
+    "description": "Resume of Noman Farooq - Senior Android Engineer with 4+ years of experience in Kotlin, Java, Jetpack Compose and scalable mobile app development.",
+    "keywords": "Noman Farooq, Android Engineer, Senior Mobile Developer, Kotlin, Lahore, Resume, Portfolio",
     "social": {
-      "ogTitle": "Adnan Naeem - Senior Mobile Applications Engineer",
-      "ogDescription": "7+ years of experience in Android & React Native | Built apps with 10M+ downloads | Expert in Kotlin, Java, Jetpack Compose, Firebase",
-      "twitterDescription": "Android & React Native Engineer | Apps with 10M+ downloads",
+      "ogTitle": "Noman Farooq - Senior Mobile Applications Engineer",
+      "ogDescription": "4+ years of experience in Android| Built apps with 10M+ downloads | Expert in Kotlin, Java, Jetpack Compose, Firebase",
+      "twitterDescription": "Android Engineer | Apps with 10M+ downloads",
       "imageUrl": "https://adnaanaeem.github.io/profile.jpg",
       "resumeUrl": "https://adnaanaeem.github.io/"
     },
     "structuredData": {
       "name": "Adnan Naeem",
       "jobTitle": "Senior Mobile Applications Engineer",
-      "image": "https://adnaanaeem.github.io/profile.jpg", 
+      "image": "https://adnaanaeem.github.io/profile.jpg",
       "addressLocality": "Lahore",
       "addressCountry": "PK",
       "email": "mailto:adnaanaeem@gmail.com",
@@ -23,26 +23,32 @@
         "https://github.com/adnaanaeem"
       ],
       "knowsAbout": [
-        "Android", "Kotlin", "React Native", "Jetpack Compose", "Mobile Applications", "Firebase", "MVVM"
+        "Android",
+        "Kotlin",
+        "React Native",
+        "Jetpack Compose",
+        "Mobile Applications",
+        "Firebase",
+        "MVVM"
       ]
     }
   },
   "personalInfo": {
-    "name": "ADNAN NAEEM",
+    "name": "Noman Farooq",
     "title": "Senior Mobile Applications Engineer (Android)",
     "contact": {
       "location": "Lahore, Pakistan",
-      "phone": "+92 343 8673052",
-      "email": "adnaanaeem@gmail.com",
-      "linkedin": "https://linkedin.com/in/adnaanaeem",
-      "github": "https://github.com/adnaanaeem"
+      "phone": "+92 346 1737667",
+      "email": "nomi.uaf.15@gmail.com",
+      "linkedin": "https://linkedin.com/in/nomiuaf15",
+      "github": "https://github.com/nomiuaf15"
     }
   },
   "sections": [
     {
       "type": "summary",
       "title": "Professional Summary",
-      "content": "Senior Mobile Applications Engineer with 7+ years of experience architecting and delivering scalable Android apps (10M+ downloads). Proficient in Kotlin, Java, Jetpack Compose, and Firebase, with expertise in performance optimization, Jenkins CI/CD pipelines, and modern Android frameworks. Proven leader in driving architectural enhancements, accelerating delivery, and building high-performing teams, with React Native as a secondary skill for cross-platform development."
+      "content": "Results-driven software engineer with over 4+ years of experience in designing, developing, and maintaining high-quality software application. Skilled in utilizing programming languages and engineering principles to solve\ncomplex problems efficiently. Adept at collaborating with cross-functional teams to ensure software aligns with user needs and business objectives. Committed to staying updated with emerging technologies and following best practices throughout the software development lifecycle."
     },
     {
       "type": "technologies",
@@ -53,7 +59,6 @@
           "skills": [
             "Kotlin",
             "Java",
-            "React Native",
             "Jetpack Compose"
           ]
         },
@@ -61,7 +66,6 @@
           "category": "Architecture & Patterns",
           "skills": [
             "MVVM",
-            "Dagger",
             "Coroutines",
             "Room",
             "Navigation"
@@ -72,7 +76,6 @@
           "skills": [
             "JUnit",
             "Mockito",
-            "MockK",
             "Code Reviews"
           ]
         },
@@ -91,8 +94,7 @@
             "Android Studio",
             "Git",
             "Jira",
-            "Agile",
-            "Jenkins"
+            "Agile"
           ]
         }
       ]
@@ -102,58 +104,43 @@
       "title": "Professional Experience",
       "items": [
         {
-          "company": "AOMATA LLC",
-          "role": "Senior Software Engineer (Android)",
-          "period": "June 2022 - Present | Lahore, Pakistan",
+          "company": "Codexia Technologies",
+          "role": "Software Engineer (Android)",
+          "period": "March 2023 - March 2025 | Lahore, Pakistan",
           "achievements": [
-            "Implemented architectural improvements that enhanced engineering velocity.",
-            "Led end-to-end feature development ensuring consistent, timely product releases",
-            "Collaborated cross-functionally with product teams to deliver user-centric solutions"
+            "Designed and developed software applications per project specifications.",
+            "Wrote clean, efficient, and well-documented code.",
+            "Performed unit testing and debugging to ensure software quality.",
+            "Implemented best practices for code review and version control.",
+            "Collaborated with engineers to architect and maintain software systems.",
+            "Stayed updated with emerging technologies and industry trends.",
+            "Troubleshot technical issues and provided timely solutions.",
+            "Contributed to project planning and estimation."
           ]
         },
         {
-          "company": "UNATION INC",
-          "role": "Senior Mobile Apps Developer",
-          "period": "December 2021 - April 2022 | Remote",
-          "achievements": [
-            "Successfully migrated legacy Java application to React Native for cross-platform delivery",
-            "Served as Android Technical Lead for geofencing-enabled events application",
-            "Enhanced app architecture with Room database and MVVM pattern for offline capabilities"
-          ]
-        },
-        {
-          "company": "Fecundity LLP",
-          "role": "Senior Software Engineer (Mobile)",
-          "period": "February 2020 - November 2021 | Lahore, Pakistan",
-          "achievements": [
-            "Led Android development team (2-3 engineers) delivering client solutions",
-            "Managed complete project lifecycle from architecture design to production deployment"
-          ]
-        },
-        {
-          "company": "OZI Technology",
-          "role": "Senior Software Engineer (Android)",
-          "period": "May 2019 - December 2020 | Lahore, Pakistan",
-          "achievements": [
-            "Designed scalable Android applications with modern architecture patterns",
-            "Mentored junior developers and managed Play Store & Amazon App Store releases"
-          ]
-        },
-        {
-          "company": "Content Arcade",
+          "company": "Soft Pvt Ltd",
           "role": "Senior Android Developer",
-          "period": "November 2017 - May 2019 | Lahore, Pakistan",
+          "period": "December 2021 - January 2022 | Lahore, Pakistan",
           "achievements": [
-            "Developed and maintained consumer applications achieving 10M+ downloads",
-            "Recognized as Employee of the Quarter (2018) for exceptional performance"
+            "Develop and maintain high-performance Android applications using Kotlin and Jetpack Compose.",
+            "Collaborate with cross-functional teams to define, design, and ship new features.",
+            "Conduct code reviews and provide constructive feedback to improve code quality.",
+            "Stay updated with the latest Android trends and integrate them into projects.",
+            "Optimize application performance through profiling and refactoring techniques.",
+            "Mentor junior developers and lead technical discussions within the team.",
+            "Integrate third-party APIs and services to extend application capabilities.",
+            "Analyze user data to inform feature development and improve app engagement."
           ]
         },
         {
-          "company": "Marketing Solutions",
-          "role": "Android Developer",
-          "period": "August 2016 - October 2017 | Lahore, Pakistan",
+          "company": "Monumental ",
+          "role": "Junior Android Developer",
+          "period": "March 2021 - November 2021 | Faisalabad, Pakistan",
           "achievements": [
-            "Progressed from intern to developer, designing commercial Android applications"
+            "Use data-driven insights to refine features and boost user engagement.",
+            "Keep up with the latest Android advancements and integrate them into projects.",
+            "Engage in agile ceremonies, contributing to sprint planning and retrospectives"
           ]
         }
       ]
@@ -163,24 +150,34 @@
       "title": "Featured Projects",
       "items": [
         {
-          "name": "Smart Transfer",
-          "url": "https://play.google.com/store/apps/details?id=com.aomatatech.datatransferapp.filesharing",
-          "description": "Smart Transfer is a high-performance file sharing app with 10M+ downloads. It enables fast data transfer via Wi-Fi and hotspot, phone cloning, and internet-based sharing, while also offering productivity tools like bookmarks, storage and contacts clutter manager, and device stats (Wi-Fi and battery)"
+          "name": "B Infinite – Rewards & Loyalty App",
+          "url": "https://play.google.com/store/apps/details?id=com.bloyalty.app",
+          "description": "Developed the B Infinite app to deliver a dynamic rewards and loyalty experience across Malaysia. By partnering with renowned brands like Caltex, Starbucks, and Krispy Kreme, the app allows users to earn BPoints for every RM1 spent—except at Caltex where points are earned per litre of petrol purchased. Users can accumulate points through shopping, dining, and exploring, then redeem them for fuel, coffee, doughnuts, shoes, home appliances, bill payments, and exclusive deals in the BI Shop. The app is designed for both residents and non-residents aged 18 and above, ensuring that everyone can enjoy snazzy deals and instant rewards."
         },
         {
-          "name": "UNATION Events",
-          "url": "https://play.google.com/store/apps/details?id=com.unation.app",
-          "description": "Location-based event discovery platform with advanced geofencing, MVVM architecture, REST API integration, and Kotlin Coroutines"
+          "name": "GoRide Driver – City-to-City Ride-Sharing App",
+          "url": "https://play.google.com/store/apps/details?id=xyz.codexia.godriver",
+          "description": "Go Ride is an easy-to-use app that allows drivers to offer affordable city-to-city rides. With the shared ride feature, drivers can pick up multiple passengers, making the journey more efficient and profitable."
         },
         {
-          "name": "Logo Maker Pro",
-          "url": "https://play.google.com/store/apps/details?id=org.contentarcade.apps.logomaker",
-          "description": "Creative design tool with 10M+ downloads, featuring Canvas drawing engine and AWS cloud integration for professional logo creation"
+          "name": "JSC Booking",
+          "url": "https://play.google.com/store/apps/details?id=com.app.jsctransports",
+          "description": "The JSC Transport app is your ultimate solution for all your transportation needs, whether you require immediate transport or are planning for future trips, including your sacred Umrah journey. With our user-friendly interface, you can effortlessly book reliable and comfortable transport at your convenience."
+        },
+        {
+          "name": "JSC Driver",
+          "url": "https://play.google.com/store/apps/details?id=com.app.jsctransportmanagement",
+          "description": "Our Transport Management App revolutionizes the way you handle bookings and logistics. Designed for efficiency and ease-of-use, it simplifies the process of booking transport services, managing schedules, and ensuring seamless coordination for both immediate and future travel needs. Whether you're planning a trip, organizing group travel, or booking for Umrah services, our app offers a comprehensive solution. Enjoy real-time updates, secure transactions, and personalized service options, all at your fingertips. Embrace a new standard in transport management with our innovative app"
+        },
+        {
+          "name": "Design Studio For Cricuts",
+          "url": "https://play.google.com/store/apps/details?id=com.tech.design.studio.maker",
+          "description": "Design Studio for Cricut Machine, a feature-rich Android application designed for craft enthusiasts to create stunning DIY projects with ease. From personalized gifts and intricate paper crafts to vinyl projects and home décor, this app offers an intuitive interface, advanced editing tools, and a vast image library to enhance the crafting experience. With project inspiration, step-by-step tutorials, and community sharing features, it empowers users to bring their creative ideas to life.\n"
         },
         {
           "name": "Additional Portfolio",
           "url": "",
-          "description": "<a href=\"https://play.google.com/store/apps/details?id=org.contentarcadeapps.plagiarismchecker\" target=\"_blank\">Plagiarism Checker</a> • <a href=\"https://play.google.com/store/apps/details?id=com.ca.pdf.editor.converter.tools\" target=\"_blank\">PDF Converter</a> • <a href=\"https://play.google.com/store/apps/details?id=com.covermaker.thumbnail.maker\" target=\"_blank\">Thumbnail Maker</a> • <a href=\"https://play.google.com/store/apps/details?id=com.grammar.checker.corrector\" target=\"_blank\">Grammar Checker</a>"
+          "description": "<a href=\"https://play.google.com/store/apps/details?id=xyz.codexia.rto&hl=en\" target=\"_blank\">Round The Outside: Shoutout</a> • <a href=\"https://play.google.com/store/apps/details?id=com.tripto.travelplanner.tour.guide&hl=en_US\" target=\"_blank\">Tripto: Travel Planner Guide</a> • <a href=\"https://github.com/nomiuaf15/jazzcash-android-payment-gateway\" target=\"_blank\">JazzCash Android Library</a>"
         }
       ]
     },
@@ -189,16 +186,16 @@
       "title": "Education",
       "items": [
         {
-          "degree": "Bachelor of Science in Computer Science (BSCS)",
-          "institution": "Government College University, Faisalabad, Pakistan • 2016"
+          "degree": "Bachelor in Bioinformatics (BSBI)",
+          "institution": "University of Agriculture, Faisalabad, Pakistan • 2015"
         },
         {
-          "degree": "Intermediate in Computer Science (ICS)",
-          "institution": "Board of Intermediate & Secondary Education, Faisalabad • 2011"
+          "degree": "Intermediate",
+          "institution": "Board Intermediate and Secondary Education Abbottabad, KPK, Pakistan • 2013"
         },
         {
-          "degree": "Matric (Science)",
-          "institution": "Board Intermediate and Secondary Education Faisalabad, Pakistan | 2009"
+          "degree": "Matriculation",
+          "institution": "Board Intermediate and Secondary Education Abbottabad, KPK, Pakistan • 2011"
         }
       ]
     }
