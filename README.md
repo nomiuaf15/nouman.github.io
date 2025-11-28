@@ -6,7 +6,7 @@
 
 A simple, modern, and feature-rich online resume template that is dynamically powered by a single `resume.json` file. Perfect for developers who want a professional online presence without the hassle of frameworks or build tools.
 
-### [View the Live Demo](https://adnaanaeem.github.io/)
+### [View the Live Demo](https://nomiuaf15.github.io/)
 
 ![Live Resume Screenshot](social_card.png)
 *(This project uses the `social_card.png` as its preview image. You should create your own!)*
@@ -40,7 +40,7 @@ You have two options to add your personal information. Using the editor is recom
 
 The editor provides a user-friendly interface to generate your `resume.json` file without ever touching the code.
 
-1.  **Go to the Resume Editor**: **[https://adnaanaeem.github.io/editor.html]**
+1.  **Go to the Resume Editor**: **[https://nomiuaf15.github.io/editor.html]**
 2.  **Fill out the form** with all your personal details, experience, skills, etc.
 3.  Click the **"Generate & Download JSON"** button.
 4.  Rename the downloaded file to `resume.json`.
